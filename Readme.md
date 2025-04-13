@@ -40,10 +40,9 @@ Visit `http://localhost:3000` to view the chat interface.
 
 ## 📸 Screenshots
 
-```
-![Chat UI - Desktop](screenshots/chat-desktop.png)
-![Chat UI - Mobile](screenshots/chat-mobile.png)
-```
+<img width="1146" alt="Screenshot 2025-04-14 at 12 36 01 AM" src="https://github.com/user-attachments/assets/11102034-1971-4fed-86d5-6dcf8ae6a73e" />
+<img width="1146" alt="Screenshot 2025-04-14 at 12 36 31 AM" src="https://github.com/user-attachments/assets/2570b40a-5d63-4032-9add-0f590dcc0644" />
+
 
 ## 🧠 How it Works
 
