@@ -75,7 +75,7 @@ npm run start    # Start production server
 
 ## 📤 Deployment
 
-Deployed on Vercel: [Live Demo](https://your-deployment-url.vercel.app)
+Deployed on Vercel: [Live Demo](https://chat-ui-gurucool.vercel.app/)
 
 GitHub Repository: [GitHub Repo](https://github.com/Lokesh-Bijarniya/Gurucool-Frontend.git)
 
